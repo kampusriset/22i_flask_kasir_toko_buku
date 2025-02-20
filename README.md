@@ -13,5 +13,5 @@ Isnand Farizky Prabowo - [Pengatur akses aplikasi]
 Hanifah Muthi - [Tampilan Login]
 
 Lilig Daru Suryawati- [Desain]
-# Link Vidio Youtube
+# Link Vidio Dokumentasi
 https://youtu.be/cuDxcLeZyts?feature=shared
