@@ -14,4 +14,5 @@ Hanifah Muthi - [Tampilan Login]
 
 Lilig Daru Suryawati- [Desain]
 # Link Vidio Dokumentasi
+Anda dapat menonton video dokumentasi aplikasi melalui tautan berikut:
 https://youtu.be/cuDxcLeZyts?feature=shared
