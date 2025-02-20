@@ -14,4 +14,4 @@ Hanifah Muthi - [Tampilan Login]
 
 Lilig Daru Suryawati- [Desain]
 # Link Vidio Youtube
-[https://youtu.be/cuDxcLeZyts?feature=shared](url)
+https://youtu.be/cuDxcLeZyts?feature=shared
